@@ -1,3 +1,11 @@
+/*
+** Author:  Nwosu Darlington Chukwuemeka
+** Copyright: 2020
+** Copyright Note: This project is opened sourced and is available for both public and private use of non-profit projects. 
+** Otherwise, the author should be informed.
+** Version: v1.0.1
+*/
+
 function isPlainObject(obj) {
     return toString.call(obj) === '[object Object]'
 }
