@@ -1,6 +1,8 @@
 # LocalDb
+### Demo
+http://fritzdultimate.github.io
 
-## What is LocalDb?
+### What is LocalDb?
 LocalDb is a Javascript library created with LocalStorage, it is created to make LocalStorage more effecient in handling and storing data. It can work as a database to hold your data.
 You can create tables, columns, perform some basic CRUD actions.
 
